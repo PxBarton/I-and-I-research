@@ -2,7 +2,7 @@
 Summer research project investigating wastewater infrastructure data in Kutztown, PA
 
 This was a KU Bears research project for the Summer 2021 under the supervision of 
-professor Brooks Emerick of the Kutztown University Department of Mathematics.
+Dr. Brooks Emerick of the Kutztown University Department of Mathematics.
 Our goal was to gain a better understanding of an infrastructure issue in the Borough 
 of Kutztown. Inflow and Infiltration ('I & I') refer to two categories of situations where 
 rainwater is entering the wastewater system; the processing of this rainwater at the
